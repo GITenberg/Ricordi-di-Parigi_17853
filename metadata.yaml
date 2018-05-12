@@ -1,0 +1,36 @@
+_repo: Ricordi-di-Parigi_17853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amichis, Edmondo de
+    - Amicis, Edmundo de
+    - Amicis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_bookshelf:
+- IT Viaggi
+- Historical Fiction
+gutenberg_issued: '2006-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17853'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zola, Émile, 1840-1902'
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'Hugo, Victor, 1802-1885'
+title: Ricordi di Parigi
+url: http://www.gutenberg.org/ebooks/17853
