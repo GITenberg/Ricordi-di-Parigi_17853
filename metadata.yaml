@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7650
     wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17853#Ricordi-di-Parigi
 gutenberg_bookshelf:
 - IT Viaggi
 - Historical Fiction
